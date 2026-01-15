@@ -1,0 +1,124 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://thymes961.com
+Data file = /var/www/html/thymes961.com/wp-content/uploads/2020/12/elarapro.wordpress.2018-01-22.xml
+Widget file = /var/www/html/thymes961.com/wp-content/uploads/2020/12/demo.lyrathemes.com-elara-pro-widgets.wie
+Customizer file = /var/www/html/thymes961.com/wp-content/uploads/2020/12/elara-pro-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar - Default : 
+
+Search - No Title - Imported
+Image - No Title - Imported
+Categories - No Title - Imported
+Text - About Elara Pro - Imported
+null-instagram-feed - Instagram - Site does not support widget
+Tag Cloud - Tags - Imported
+
+Sidebar - Default - With Background : 
+
+Elara Pro - About Me - About Us - Imported
+Navigation Menu - Follow Me - Imported
+
+Sidebar - Front Page : 
+
+Elara Pro - Promo Box - Built-in Affiliate Widget - Imported
+recent-posts-widget-with-thumbnails - Picks of the Week - Site does not support widget
+Elara Pro - MailChimp - MailChimp Subscription Form - Imported
+
+Sidebar - Post : 
+
+Elara Pro - Promo Box - Built-in Promo Box - Imported
+
+sidebar-recipes : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - Search - Imported to Inactive
+Categories - Categories - Imported to Inactive
+Tag Cloud - Tags - Imported to Inactive
+
+Header - Left : 
+
+Navigation Menu - No Title - Imported
+
+Header - Center : 
+
+Navigation Menu - No Title - Imported
+
+Header - Right : 
+
+Search - No Title - Imported
+
+Front Page - Promo Area : 
+
+Text - Front Page Promo Area - Imported
+Elara Pro - Promo Box - No Title - Imported
+Elara Pro - Promo Box - No Title - Imported
+Elara Pro - Promo Box - No Title - Imported
+Elara Pro - Promo Box - No Title - Imported
+
+Front Page - Full 1 : 
+
+Text - Quote of the Day - Imported
+
+Front Page - Full 2 : 
+
+null-instagram-feed - No Title - Site does not support widget
+
+Footer Columns - Col 1 : 
+
+Text - About Elara Pro - Imported
+Navigation Menu - No Title - Imported
+
+Footer Columns - Col 2 : 
+
+Categories - Categories - Imported
+
+Footer Columns - Col 3 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Columns - Col 4 : 
+
+Tag Cloud - Tags - Imported
+
+Footer Columns - Col 5 : 
+
+Elara Pro - MailChimp - Never Miss A Recipe - Imported
+Image - No Title - Imported
+
+Floating Social - Left : 
+
+Navigation Menu - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

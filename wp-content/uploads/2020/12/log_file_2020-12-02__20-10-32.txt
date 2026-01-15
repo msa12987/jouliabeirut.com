@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Demo Moka were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://thymes961.com
+Data file = /var/www/html/thymes961.com/wp-content/themes/moka/assets/demo/moka-content.xml
+Widget file = /var/www/html/thymes961.com/wp-content/themes/moka/assets/demo/moka-widgets.wie
+Customizer file = /var/www/html/thymes961.com/wp-content/themes/moka/assets/demo/moka-customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Front Page Widget Area : 
+
+Recent Posts by Category (Moka) - Artwork - Widget already exists
+About (Moka) - About - Imported
+Big Quote (Moka) - No Title - Widget already exists
+Recent Posts by Category (Moka) - Just My Life - Widget already exists
+Tag Cloud - Filter by Category - Widget already exists
+
+Footer Widget Area 1 : 
+
+Navigation Menu - More Info - Imported
+
+Footer Widget Area 2 : 
+
+Archives - Monthly Archives - Imported
+
+Footer Widget Area 3 : 
+
+blog_subscription - Subscribe via Email - Site does not support widget
+
+Social Links Footer Widget Area : 
+
+Social Links (Moka) - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

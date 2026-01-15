@@ -1,0 +1,68 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 1500
+Files info:
+Site URL = https://thymes961.com
+Data file = /home/thalwlnk/thymes961.com/wp-content/uploads/2020/09/moka-content.xml
+Widget file = /home/thalwlnk/thymes961.com/wp-content/uploads/2020/09/moka-widgets.wie
+Customizer file = /home/thalwlnk/thymes961.com/wp-content/uploads/2020/09/moka-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+front-sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+moka_recentposts - Artwork - Site does not support widget
+moka_about - About - Site does not support widget
+moka_quote - No Title - Site does not support widget
+moka_recentposts - Just My Life - Site does not support widget
+Tag Cloud - Filter by Category - Widget already exists
+
+footer-sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - More Info - Imported to Inactive
+
+footer-sidebar-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Archives - Monthly Archives - Widget already exists
+
+footer-sidebar-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+blog_subscription - Subscribe via Email - Site does not support widget
+
+footer-sidebar-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+moka_sociallinks - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
